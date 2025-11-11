@@ -1,0 +1,2 @@
+Printer:RING 412PEI+
+Count:1
